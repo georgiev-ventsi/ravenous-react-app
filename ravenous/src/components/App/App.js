@@ -24,7 +24,6 @@ const businesses = [
   business,
   business,
   business
-
 ]
 
 export default class App extends React.Component{
